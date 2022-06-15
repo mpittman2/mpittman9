@@ -3,7 +3,7 @@
 
 #Change the name to match your course name
 #Example name: Deploy HTML Files to AppService - COURSENAME
-name: Deploy HTML Files to AppService - CMST385
+name: Deploy HTML Files to AppService - CMST
 
 on:
   push:
